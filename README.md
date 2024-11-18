@@ -17,5 +17,4 @@
 
 ## **Credit:**
 The source of the dataset are by Saurabh Shahane from Kaggle.
-Check out the dataset by just one click away 😇 :  
-[https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification]
+Check out the dataset by just one click away 😇 :   [Datasets](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
