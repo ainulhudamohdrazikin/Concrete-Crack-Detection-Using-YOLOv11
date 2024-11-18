@@ -14,3 +14,8 @@
 ![epoch_loss](https://github.com/user-attachments/assets/3a239a00-bc50-4c43-9d92-0d70fe1527c5)
 
 ![result_prediction](https://github.com/user-attachments/assets/b60d51c5-6be7-419f-ba0d-cc9e0fffb5b7)
+
+## **Credit:**
+The source of the dataset are by Saurabh Shahane from Kaggle.
+Check out the dataset by just one click away 😇 :  
+[https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification]
